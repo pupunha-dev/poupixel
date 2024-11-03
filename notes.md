@@ -1,0 +1,3 @@
+supabase@2024
+api: https://jitsfdbgukshlqsvbngn.supabase.co
+apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImppdHNmZGJndWtzaGxxc3ZibmduIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzA2NzQwOTEsImV4cCI6MjA0NjI1MDA5MX0.LfYiI0pjRQJXvt_SbBRjRzpTmq-VEAW4gH-0E8Efcho
