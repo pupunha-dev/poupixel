@@ -13,7 +13,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        <main className="bg-zinc-800 h-screen flex justify-center">
+          {children}
+        </main>
+      </body>
     </html>
   );
 }
