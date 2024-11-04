@@ -2,7 +2,6 @@ import Image from "next/image";
 import Link from "next/link";
 import logo from "@/public/Cabeçalho.svg"
 import { nunito } from "@/utils/fonts";
-import { IconPlus } from "@tabler/icons-react";
 
 export default function Home() {
   return (
@@ -15,7 +14,7 @@ export default function Home() {
           <Link href="/home">
             <button className="flex rounded-md border border-green-900 p-2 bg-lime-600 items-center hover:bg-lime-500
             ease-in duration-100 active:bg-lime-600 mt-4">
-              <IconPlus height={20} /><span>Criar Nova Meta</span>
+              <span>Criar Nova Meta</span>
             </button>
           </Link>
         </div>
